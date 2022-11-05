@@ -1,0 +1,33 @@
+/* .jumbotron{
+background-color: green;
+} */
+
+.hero {
+
+  height: 300px;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+
+.logo{
+  height: 150px;
+}
+.label-hero{
+  text-align: center;
+  font-weight: bold;
+}
+.menu{
+  background-color: silver;
+  height: 100px;
+}
+
+.logo-menu{
+
+  text-align: center;
+}
+
+.logo-menu p {
+  color : green;
+}
